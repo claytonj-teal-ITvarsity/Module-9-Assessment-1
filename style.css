@@ -1,0 +1,79 @@
+body{
+    background-color: lightgray;
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+}
+
+#Heading{
+    border: none;
+    font-size: 50px;
+    padding: 0px;
+}
+
+
+.container{
+    width: 100%;
+}
+
+#progressBarContainer{
+    transform: rotate(180deg);
+    height: 500px;
+    width: 30%;
+    float: left;
+}
+
+p{
+    color: black;
+    font-size: 40px;
+}
+
+#clock{
+   width: 100%;
+    text-align: center;
+}
+
+
+.button{
+    width: 100%;
+    padding-top: 3rem;
+}
+
+.roundButton{
+    border-radius: 50%;
+    background-color: darkgray;
+    border: 1px solid black;
+    width: 5rem;
+    height: 5rem;
+    font-size: 1rem;
+}
+
+.button1{
+    float: center;
+    padding: 10px;
+    color: darkgray;
+}
+.button2{
+    float: center;
+     padding: 10px;
+}
+
+.select{
+    background-color: darkgray;
+    padding: 20px;
+    width: 50%;
+    border-radius: 1rem;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    font-size: 1rem ;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
